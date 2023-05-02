@@ -1,8 +1,8 @@
-import java.util.ArrayList;
-import java.util.Collections;
+package bronze;
+
 import java.util.Scanner;
 
-public class Main {
+public class BaekJoon10808 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
@@ -27,7 +27,4 @@ public class Main {
             System.out.print(count[i] + " ");
         }
     }
-
 }
-
-
